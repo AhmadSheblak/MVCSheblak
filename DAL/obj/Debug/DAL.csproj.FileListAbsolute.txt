@@ -1,0 +1,12 @@
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\DAL.dll.config
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\DAL.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\DAL.pdb
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\obj\Debug\DAL.Migrations.mmark.resources
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\obj\Debug\DAL.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\DAL\obj\Debug\DAL.pdb

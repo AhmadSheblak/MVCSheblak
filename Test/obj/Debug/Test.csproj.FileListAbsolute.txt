@@ -1,0 +1,17 @@
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\Test.exe.config
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\Test.exe
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\Test.pdb
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\EntityFramework.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\EntityFramework.xml
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\obj\Debug\Test.exe
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\obj\Debug\Test.pdb
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\BLL.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\DAL.dll
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\BLL.pdb
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\BLL.dll.config
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\DAL.pdb
+C:\Users\Ahmad Al Sheblak\Documents\Visual Studio 2015\Projects\MySchool\Test\bin\Debug\DAL.dll.config

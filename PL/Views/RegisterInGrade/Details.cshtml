@@ -1,0 +1,44 @@
+﻿@model IEnumerable<DAL.Student>
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>The Student in Your Selected Grade</h2>
+
+<div>
+
+    <hr />
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.StdName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Std_address)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StdName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Std_address)
+                </td>
+
+                <td>
+
+                    @Html.ActionLink("Delete", "UnRegistration", new { id = item.StdId })
+                </td>
+            </tr>
+        }
+    </table>
+
+    <br />
+    <br />
+    @Html.ActionLink("Add New Student", "Registration")
+</div>

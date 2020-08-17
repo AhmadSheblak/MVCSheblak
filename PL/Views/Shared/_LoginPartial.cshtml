@@ -1,0 +1,17 @@
+﻿@{
+    string s = Session["Username"] as string;
+}
+    <ul class="nav navbar-nav navbar-right">
+
+        @if (Session["isUser"] != null && (bool)Session["isUser"] == true)
+        {
+        <li>@Html.ActionLink("Profile of "+(string)Session["Username"]+"    |", "DetailsforUser", "Users", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+        <li>@Html.ActionLink("Log out", "logout", "Home", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+
+        }
+        else
+        {
+            <li>@Html.ActionLink("Log in", "Login", "Home", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+        }
+    </ul>
+
